@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.noccstatus
+Name: NoCCStatusXI
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove that annoying text when changing CC Toggles
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks
